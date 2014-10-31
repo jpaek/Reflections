@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+* You create master repository in the directory.  Because the repository doesn't exist yet.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+* It's an intermediary between the working directory and repository.
+* It allows you commit multiple files that are part of a logical unit while leaving the changes that are separate logical unit in next commit.
