@@ -7,3 +7,6 @@ How is the staging area different from the working directory and the repository?
 
 How can you use the staging area to make sure you have one commit per logical change?
 * Add files that represent one logical change in the staging area.
+
+How do the diagrams help you visualize the branch structure?
+* Quickly see where each branch was branched off from the master.
